@@ -16,7 +16,7 @@ Features:
 - display of the solving process + ranking
 - music 
 
-Comment :
+Comment:
 All maps are completable. I personally did it but you may need to change the parameters' values and to hope for the best.
 
 Disclaimer:
